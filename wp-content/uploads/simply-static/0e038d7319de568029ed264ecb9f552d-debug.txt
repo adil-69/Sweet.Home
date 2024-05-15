@@ -1,0 +1,2 @@
+[2024-05-15 13:43:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/Sweet.Home
+[2024-05-15 13:44:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/Sweet.Home
