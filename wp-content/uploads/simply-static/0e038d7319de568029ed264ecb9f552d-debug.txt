@@ -14447,3 +14447,631 @@
 [2024-05-22 13:38:38] [class-elementor-pro-integration.php:61] Adding elementor bundle asset to queue: http://localhost/Sweet.Home/wp-content/plugins/elementor-pro/assets/images/logo-placeholder.png
 [2024-05-22 13:38:38] [class-elementor-pro-integration.php:61] Adding elementor bundle asset to queue: http://localhost/Sweet.Home/wp-content/plugins/elementor-pro/assets/data/responsive-widgets.json
 [2024-05-22 13:38:38] [class-ss-archive-creation-job.php:175] We've found our next task: fetch_urls
+[2024-05-22 13:39:00] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-05-22 13:39:00] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-05-22 13:39:00] [class-ss-fetch-urls-task.php:69] Total pages: 14123; Pages remaining: 14123
+[2024-05-22 13:39:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/Sweet.Home/
+[2024-05-22 13:39:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 14123
+[2024-05-22 13:39:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\adils\AppData\Local\Temp/664df574ad0dc-wRJNb0.tmp
+[2024-05-22 13:39:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/Sweet.Home/?simply_static_page=98457
+[2024-05-22 13:39:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/Sweet.Home/?simply_static_page=98457
+[2024-05-22 13:39:20] [class-ss-url-fetcher.php:103] Filesize: 154286 bytes
+[2024-05-22 13:39:20] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-05-22 13:39:20] [class-ss-url-fetcher.php:233] New filename for static page: /index.html
+[2024-05-22 13:39:20] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\adils\AppData\Local\Temp/664df574ad0dc-wRJNb0.tmp to C:\xampp\htdocs\Hotel/wp-content/uploads\simply-static\temp-files/simply-static-1-1716384859/index.html
+[2024-05-22 13:39:20] [class-ss-fetch-urls-task.php:151] Extracting URLs and replacing URLs in the static file
+[2024-05-22 13:39:27] [class-ss-fetch-urls-task.php:158] Adding 113 URLs to the queue
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:169] We're saving this URL; keeping the static file
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:171] SHA1 BINARY: AdªÙ—êÒ,cg‘<Ç$#¾ÈÌ
+[2024-05-22 13:39:31] [class-ss-page.php:125] Checking Content Identical:4164aad997ead22c1c6367913cc72423bec8cc03===. Value: TRUE
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/about-1.png
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/apps-line-3.svg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar-1-1.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar-1.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar2.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar3.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar4.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar5.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar6.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar7.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/avatar8.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_1.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_10.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_11.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_12.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_13.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_2.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_3.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_4.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_5.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_6.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_7.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_8.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Blog_9.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/FAQ-Image.png
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/FAQ-Page-Image-2.png
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/FAQ-Page-Image.png
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/footer-bg.png
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery-slide-1.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery-slide-2.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery-slide-3.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery-slide-4.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery-slide-5.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery-slide-6.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery2-1.jpg
+[2024-05-22 13:39:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 14123
+[2024-05-22 13:39:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:31] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery2-2.jpg
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery2-3.jpg
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery2-4.jpg
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/gallery2-5.jpg
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/home-1-image-1.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/home-1-image-2.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Home-2_image_1.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Home-2_image_2.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Home-2_image_3.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/image-box-1.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/image-box-2.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/image-box-3.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/logo-sweet-home-mobile.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/logo-sweet-home-white.png
+[2024-05-22 13:39:32] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 14123
+[2024-05-22 13:39:32] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:32] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:32] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 14123 pages/files
+[2024-05-22 13:39:32] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-05-22 13:39:48] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-05-22 13:39:48] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-05-22 13:39:48] [class-ss-fetch-urls-task.php:69] Total pages: 14225; Pages remaining: 14175
+[2024-05-22 13:39:48] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/logo-sweet-home.png
+[2024-05-22 13:39:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 14225
+[2024-05-22 13:39:48] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Logo_2.svg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Logo_3.svg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/price-bg.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/road_map_1.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/road_map_2.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/road_map_3.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/road_map_4.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/service-1.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/service.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/signature.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/superior-room.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/team-1.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/team-2.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/team-3.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/team-4.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/travel-summer-vacation-concept-happy-traveler-asian-woman-with-hat-dress-relax-swing-beach-cafe-koh-chang-thailand.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/Video_Image.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/woocommerce-placeholder.png
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/07/ïŠshopping-bag-2.svg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/avt.jpg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/avt2.jpg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/avt3.jpg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/banner-home3-02.jpg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/banner-home3.jpg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 14225
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:49] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:49] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bath.svg
+[2024-05-22 13:39:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/beautiful-beach.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/beautiful-luxury-outdoor-swimming-pool-hotel-resort.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/beautiful-swimming-pool-with-sun-beds-umbrellas-sunrise-summer-luxury-resort-liberty-hotels-lykia-oludeniz-turkey-landscape-with-empty-pool-deck-chairs-green-trees-mountain-blue-sky.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/beautiful-woman-photographer-blogger-vacation-working-with-laptop-by-pool-freelance-remote-work.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/beautiful-woman-relaxing-beauty-spa-hotel-client-having-beauty-treatment-beauty-spa-salo.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bed-alt.svg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-demo.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-header-banner-room-detail.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-header-banner-room.jpg
+[2024-05-22 13:39:50] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 14225
+[2024-05-22 13:39:50] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:50] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-header-banner-shop.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-header-banner.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-Pricing-Package.png
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-shape-rev1.svg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-slider-rev-01.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-slider-rev-02.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/bg-video-home2.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/demo-about.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/demo-room-detail.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/demo-room-listing.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/demo-room-listing2.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/demo-room-listing3.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/demo-service.jpg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/desktop-demo.png
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/drafting-compass.svg
+[2024-05-22 13:39:51] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 14225
+[2024-05-22 13:39:51] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:51] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:51] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 50 of 14225 pages/files
+[2024-05-22 13:39:51] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-05-22 13:39:52] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-05-22 13:39:52] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:69] Total pages: 14225; Pages remaining: 14125
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Ellipse-87.svg
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/footer-bg.svg
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_1-1.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_1.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_2-1.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_2.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_3-1.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_3.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_4-1.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_4.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_5.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_6.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_1.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_2.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_3.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_4.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_5.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_6.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_7.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_8.png
+[2024-05-22 13:39:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 14225
+[2024-05-22 13:39:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:52] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Gallery_Filter_9.png
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/garage.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Group-19.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Group-shape-rev1.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/hammocks-with-palm-trees.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/home-1-room-bg-2.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/home1-demo.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/home2-demo.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/home3-demo.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Home_FoodDrink.png
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/hotel-1-1.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/hotel-1.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/hotel-2.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/hotel.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/hotel_2.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Logo.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Logo11.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Logo21.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Logo31.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Logo41.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/Logo61.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/luxury-interior-exterior-design-pool-villa-with-livingroom.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/monile-demo.png
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/our-activity-bg.svg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/patio-balcony-with-chair-around-sea-ocean-view.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/portrait-beautiful-young-asian-woman-relax-smile-leisure-around-outdoor-swimming-pool-with-sea-ocean-view.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/resort-bed-beautiful-light-effect-wonderful-resort.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/room-01.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/room-02.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:72] URL: C:/xampp/htdocs/Sweet.Home/wp-content/uploads/2023/08/room-03.jpg
+[2024-05-22 13:39:53] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 14225
+[2024-05-22 13:39:53] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-05-22 13:39:53] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-05-22 13:39:54] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 100 of 14225 pages/files
+[2024-05-22 13:39:54] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-05-22 13:39:54] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-05-22 13:39:54] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
